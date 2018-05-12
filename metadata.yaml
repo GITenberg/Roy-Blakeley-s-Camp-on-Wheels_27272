@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27272#Roy-Blakeley-s-Camp-on-Wheels
 gutenberg_issued: '2008-11-15'
 gutenberg_type: Text
 identifiers:
